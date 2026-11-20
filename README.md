@@ -6,6 +6,10 @@
 
 L'objectif : centraliser les informations essentielles, anticiper les opérations de maintenance et conserver un historique clair de la vie du bateau.
 
+## Aperçu de l'application
+
+![Tableau de bord Mon Navire](images/mon-navire-dashboard.webp)
+
 ## Fonctionnalités principales
 
 - **Gestion des navires** — Centralisation des informations de chaque bateau.
