@@ -8,7 +8,7 @@ L'objectif : centraliser les informations essentielles, anticiper les opération
 
 ## Aperçu de l'application
 
-![Tableau de bord Mon Navire](images/mon-navire-dashboard.webp)
+![Tableau de bord Mon Navire](images/mon-navire-cover.webp)
 
 ## Fonctionnalités principales
 
